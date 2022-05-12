@@ -105,6 +105,7 @@ SynapseStoredProcDW_CL
 
 /////////////////////////////////////////////////Data Point Charts Section Below///////////////////////////////////////////////////////////////////////////////////////
 
+![image](https://user-images.githubusercontent.com/47223829/167973156-232141ec-3518-466c-8c3f-a9b72f07aea0.png)
 
 //Total Waits by Request ID in seconds
 SynapseWaitsDW_CL
